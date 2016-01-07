@@ -1,0 +1,21 @@
+{
+  "name": "manviny.maps",
+  "authors": [
+    "manol <manol@indinet.es>"
+  ],
+  "description": "todo lo relacionado con GPS y mapas",
+  "main": ["maps.js","maps.css"],
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+    "dependencies": {      
+    "angular": "^1.4.8"
+  }
+}

@@ -1,0 +1,18 @@
+     md-toolbar h1 {
+        margin: auto;
+        font-weight: 400;
+      }
+
+      md-toolbar.small h1 {
+        font-size: 1.25em;
+        margin: auto 0;
+        padding-left: 16px;
+      }
+
+      #content {
+        padding: 8px 40px;
+      }
+
+      #content.small {
+        padding: 8px 16px;
+      }
