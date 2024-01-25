@@ -1,8 +1,8 @@
-# What is that
+# Módulos
 
-- Looks for user position ( mobile or desktop )  
-- presents leaflet map  
-- adds array of markers  
+- Programación de Inteligencia Artificial  
+- Modelos de Inteligencia Artificial  
+- Sistemas de Aprendizaje Automático
 
 
 # Install maps 
